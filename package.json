@@ -74,6 +74,10 @@
   "license" : "MIT",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Cybalchimor/graph-js"
+  },
   "scripts": {},
   "version": "0.1.11"
 }
