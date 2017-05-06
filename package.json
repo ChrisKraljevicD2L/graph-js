@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "graph-js",
+        "scope": null,
+        "escapedName": "graph-js",
+        "name": "graph-js",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Jérôme\\Desktop\\testLibrairiesNode"
+    ]
+  ],
+  "_from": "graph-js@latest",
+  "_id": "graph-js@0.0.2",
+  "_inCache": true,
+  "_location": "/graph-js",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/graph-js-0.0.2.tgz_1493488080160_0.09641187428496778"
+  },
+  "_npmUser": {
+    "name": "dbelaich",
+    "email": "belaich.david@outlook.fr"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "graph-js",
+    "scope": null,
+    "escapedName": "graph-js",
+    "name": "graph-js",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/graph-js/-/graph-js-0.0.2.tgz",
+  "_shasum": "5e499dca03e44c981cf5752eb1b8fe3fa87ada08",
+  "_shrinkwrap": null,
+  "_spec": "graph-js",
+  "_where": "C:\\Users\\Jérôme\\Desktop\\testLibrairiesNode",
+  "author": {
+    "name": "BELAICH David",
+    "email": "belaich.david@outlook.fr"
+  },
+  "dependencies": {},
+  "description": "Graph-js is a module to create and manipulate graphs.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5e499dca03e44c981cf5752eb1b8fe3fa87ada08",
+    "tarball": "https://registry.npmjs.org/graph-js/-/graph-js-0.0.2.tgz"
+  },
+  "keywords" : [
+    "graph",
+    "graph-js",
+    "nodes",
+    "edges"
+  ],
+  "main": "lib/Graph.min",
+  "maintainers": [
+    {
+      "name": "dbelaich",
+      "email": "belaich.david@outlook.fr"
+    }
+  ],
+  "name": "graph-js",
+  "license" : "MIT",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.1.11"
+}
