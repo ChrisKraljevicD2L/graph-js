@@ -83,5 +83,5 @@
   "scripts": {
     "build": "uglifyjs lib/Graph.js -o lib/Graph.min.js -c -m"
   },
-  "version": "0.1.11"
+  "version": "0.2.0"
 }
