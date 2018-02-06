@@ -51,13 +51,15 @@
   },
   "dependencies": {},
   "description": "Graph-js is a module to create and manipulate graphs.",
-  "devDependencies": {},
+  "devDependencies": {
+    "uglify-js": "^3.3.9"
+  },
   "directories": {},
   "dist": {
     "shasum": "5e499dca03e44c981cf5752eb1b8fe3fa87ada08",
     "tarball": "https://registry.npmjs.org/graph-js/-/graph-js-0.0.2.tgz"
   },
-  "keywords" : [
+  "keywords": [
     "graph",
     "graph-js",
     "nodes",
@@ -71,13 +73,15 @@
     }
   ],
   "name": "graph-js",
-  "license" : "MIT",
+  "license": "MIT",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/Cybalchimor/graph-js"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cybalchimor/graph-js"
   },
-  "scripts": {},
+  "scripts": {
+    "build": "uglifyjs lib/Graph.js -o lib/Graph.min.js -c -m"
+  },
   "version": "0.1.11"
 }
